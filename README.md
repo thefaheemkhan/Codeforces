@@ -1,2 +1,2 @@
-# DSA-with-C-
-this is track of DSA in C++
+# Codeforces Questions with C++
+List of codeforces problems solve.

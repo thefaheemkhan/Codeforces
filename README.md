@@ -26,3 +26,24 @@
 ### 21. Practice Tree Questions 
 ### 22. Hashing
 
+# Algorithms 
+### 23. Sort Algorithms
+### 24. Searching ALgorithms 
+### 25. Graph Algorithms
+### 26. Graph Traversal (BFS, DFS)
+### 27. Topological Sort Algorithm
+### 28. Single Source Shortest path
+### 29. Graph Algorithm Djisktras Algorithm
+### 30. Graph Algorithm Bellmen Ford Algorithm
+### 31. All pairs shortest path
+### 32. Graph Algorithm Floyd Warshall Algorithm
+### 33. Minimum sapanning tree Disjoint set
+### 34. Graph Algorithm Kruskal and Prims Algorithms
+### 35. Practice Trees and Graphs Algorithms
+### 36. Greedy Algorithm
+### 37. Divide and Conquer Algorithm
+### 38. Dynamic Programming
+### 39. Practice Questions Dynamic Programming
+### 40. A recipe for problem solving
+### 41. Backtracking
+### 42. The Wild West

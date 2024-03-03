@@ -57,8 +57,16 @@ def sum_of_n_natural_numbers_func(n):
 
 
 
+# TO be Done...
+# Q.8 Reverse an array
+# Q.9 Check if a string is palindrome or not.
+# Q.10 Fibonacci number
 
-# Driver Code
+
+
+   
+
+# --------------------- Driver Code ---------------------------
 # name_print(1,3)
 # linear_1ton(1,5)
 # print_nto1(0,5)

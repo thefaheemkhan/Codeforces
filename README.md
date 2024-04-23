@@ -1,3 +1,3 @@
 # Data Structure and Algorithm - DSA101
 
-This is the my cheat sheet of doing DSA to Crack FAANG companies.
+DSA-101 Repository contains my journey and experiences throughout the learning of Algorithms and Data Structures. 

@@ -4,7 +4,17 @@ DSA-101 Repository contains my journey and experiences throughout the learning o
 This DSA content is available in two languages C++ and Python.
 
 Roadmap to follow:
-Step-1. Language Basics
-Step-2. Space and time complexity 
-Step-3. Strings
-Step-4. Arrays
+1. DSA Prep mindset
+   - Language Basics
+   - problem-Solving, Logic Solving, Patterns.
+
+2. Time & Space Complexity
+   - Space and time complexity
+   - Scalability
+   - Rules and Graphs
+   - Few exercise and practice
+  
+3. Strings
+4. Arrays
+5. LinkedList
+6. Stack & Queue

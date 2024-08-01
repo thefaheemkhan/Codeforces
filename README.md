@@ -4,7 +4,7 @@ DSA-101 Repository contains my journey and experiences throughout the learning o
 This DSA content is available in two languages C++ and Python.
 
 
-# Day 1 of DSA101
+### Day 1 of DSA101
 
 
 

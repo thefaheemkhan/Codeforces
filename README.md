@@ -3,6 +3,7 @@
 DSA-101 Repository contains my journey and experiences throughout the learning of Algorithms and Data Structures. 
 This DSA content is available in two languages C++ and Python.
 
+## Leetcode Questions 
 
 1. Two Sum
 2. Add Two Numbers

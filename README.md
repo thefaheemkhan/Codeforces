@@ -1,6 +1,7 @@
 # Data Structure and Algorithm - DSA101
 
 DSA-101 Repository contains my journey and experiences throughout the learning of Algorithms and Data Structures.
+By using striver's DSA Cheatsheet : https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 
 ## There are Sections to cover:
 1. Learn the basics
